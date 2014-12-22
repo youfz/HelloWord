@@ -1,6 +1,6 @@
-1 ×¢²á   https://github.com/github
-2 ½øÈëgithub ´´½¨²Ö¿â£¨·Ö»ú£©
-3 ¿Í»§¶Ë°²×°git
-4´ò¿ªgit bash  ÊäÈëÓÊÏä  ÃÜÂë
+1 æ³¨å†Œ   https://github.com/github
+2 è¿›å…¥githubå»ºä»“åº“ï¼ˆåˆ†æ”¯ï¼‰
+3 å®¢æˆ·ç«¯å®‰è£…git
+4æ‰“å¼€git bash  è¾“å…¥é‚®ç®±  å¯†ç 
 
-²Î¿¼ÍøÖ·  http://artori.us/git-github-usage/
+å‚è€ƒç½‘å€  http://artori.us/git-github-usage/
