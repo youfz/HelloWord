@@ -1,0 +1,6 @@
+1 注册   https://github.com/github
+2 进入github 创建仓库（分机）
+3 客户端安装git
+4打开git bash  输入邮箱  密码
+
+参考网址  http://artori.us/git-github-usage/
